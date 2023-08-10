@@ -1,54 +1,5 @@
-.body{
-    background-color: white;
-}
-
-
-.header-main{
-    font-size: ;
-}
-
-.teste {
-    color: red;
-}
-
-.teste2{
-    font-size: 70px;
-    font-family: Arial;
-    color: orange;
-}
-
-.align-left {
-    text-align: left;
-}
-
-.align-right {
-    text-align: right;
-}
-.align-center{
-    
-
-    text-align:center;
-
-}
-.align-justify {    
-    text-align: justify;
-}
-
-
-.font-medium{
-    font-size:50px;
-}
-
-/*
-    Anota��es da Aula: Tags HTML
-    b - bold : negrito
-    i - italic : it�lico
-    u - underline : sublinhado
-    br - break row : quebra de linha
-    s - strike : 
-    sup - superScript - elevar uma letra, joga para superior
-    sub - subScript - abaixar uma letra, joga para inferiro
-    p - paragrafo
-    hr - linha, tra�o; com atributo size= 20; dizer o espessura
-        atributo width=30%  largura de percentual
-*/
+    .centraliza-imagem{
+        text-align: center;
+        align-self: center;
+        margin: 0 auto 0 auto;
+    }
