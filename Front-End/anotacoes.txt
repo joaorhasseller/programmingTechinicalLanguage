@@ -1,0 +1,9 @@
+3 tipos de css 
+
+inline - na página HTML
+inline - na mesma linha
+externo - arquivo externo
+
+seletor{
+    propriedade: valor;
+}

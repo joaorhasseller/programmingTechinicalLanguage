@@ -1,0 +1,30 @@
+    .centraliza-imagem{
+        text-align: center;
+    }
+
+    .teste{
+        text-shadow: 5px 5px 5px red;
+        /*  Permitido valores negativos
+        primerio: lateral
+        segundo: vertical
+        terceiro: esfumacear
+        quarto: cor
+        */
+    }
+    
+
+    .img{
+        width: 300;
+        height: 300;
+    }
+
+    /*Quando mouse estiver em cima da imagem*/
+    .img:hover{
+        border-radius: 30px; /*Borda redonda*/
+        border-radius: 0px 0px 50px 0px;
+    }
+
+    .assinatura{
+        text-align: right;
+        color: white;
+    }
