@@ -1,9 +1,0 @@
-.assinatura{
-    font-size: 40px;
-    text-align: right;
-    color: purple;
-    text-decoration: overline;
-}
-p.assinatura:hover{
-    text-decoration: none;
-}
