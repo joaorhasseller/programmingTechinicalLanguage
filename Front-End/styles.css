@@ -1,0 +1,53 @@
+/*
+
+    Sixtaxe css
+    seletor {
+        propriedade: valor
+    }
+
+
+    tipoes de seletores: 
+    tag - geral
+    class -  2 ou mais objetos iguauis para usar a mesma formatação   usar com .nomeQueDeu
+    id  -  formulários, usar com #nomeDado
+*/
+
+
+
+p{
+    color: pink;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+body{
+    background-color: red;
+}
+
+.borracha{
+    text-align: center;
+}
+
+/*Pseudoclasse dá estado para o objeto, ou seja para o html*/
+.borracha:hover{
+    text-shadow: 5px 5px 10px yellow;
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+a:link{
+    color: green;
+}
+
+a:visited{
+    color: yellow;
+}
+
+img{
+    border-radius: 0px 0px 70px 0px; /*Segue o mesmo principio de padding, marging*/
+    width: 300px;
+}

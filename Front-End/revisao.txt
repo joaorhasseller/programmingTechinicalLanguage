@@ -1,0 +1,11 @@
+pseudoclasse - é um estado de um objeto 
+:houver :visited :link :focus 
+
+
+
+atirbuto de font no html : size  color e face tipo arial, times new roman
+
+
+<p align = center, left ou justify
+
+
